@@ -44,6 +44,7 @@
 #include "lprintf.h"
 #include "e6y.h"//e6y
 #include "RT/rt_main.h"
+#include "gl_struct.h"
 
 #define BASEYCENTER 100
 

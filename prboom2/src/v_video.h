@@ -311,5 +311,6 @@ int V_BloodColor(int blood);
 
 #ifdef GL_DOOM
 #include "gl_struct.h"
+#include "gl_struct.h"
 #endif
 #endif

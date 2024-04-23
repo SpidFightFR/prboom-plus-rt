@@ -28,7 +28,6 @@
 
 #include <SDL_timer.h>
 #include <SDL_syswm.h>
-#include <GL/glu.h>
 
 #include "doomstat.h"
 #include "doomtype.h"
